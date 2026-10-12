@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\source\\repos\\Part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\services\\thresholdrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\services\\thresholdrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\services\\telemetryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\services\\telemetryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\services\\recommendationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\services\\recommendationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\services\\devicesimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\services\\devicesimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\services\\apigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\services\\apigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\datastructure\\minheappriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\datastructure\\minheappriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\models\\telemetrymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\models\\telemetrymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|c:\\users\\emeris\\source\\repos\\part1\\part1\\mainshellform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\mainshellform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|c:\\users\\emeris\\source\\repos\\part1\\part1\\view\\commandstreamview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\view\\commandstreamview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|C:\\Users\\emeris\\source\\repos\\Part1\\part1\\models\\securitydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00FD075-B7A9-4E98-8ACE-9B82659B1A5F}|Part1\\Part1.csproj|solutionrelative:part1\\models\\securitydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelemetryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\TelemetryEngine.cs",
+              "RelativeDocumentMoniker": "Part1\\Services\\TelemetryEngine.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\TelemetryEngine.cs",
+              "RelativeToolTip": "Part1\\Services\\TelemetryEngine.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAYwHQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:42:10.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TelemetryModels.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Models\\TelemetryModels.cs",
+              "RelativeDocumentMoniker": "Part1\\Models\\TelemetryModels.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Models\\TelemetryModels.cs",
+              "RelativeToolTip": "Part1\\Models\\TelemetryModels.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:37:27.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MinHeapPriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\DataStructure\\MinHeapPriorityQueue.cs",
+              "RelativeDocumentMoniker": "Part1\\DataStructure\\MinHeapPriorityQueue.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\DataStructure\\MinHeapPriorityQueue.cs",
+              "RelativeToolTip": "Part1\\DataStructure\\MinHeapPriorityQueue.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:38:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiGateway.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\ApiGateway.cs",
+              "RelativeDocumentMoniker": "Part1\\Services\\ApiGateway.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\ApiGateway.cs",
+              "RelativeToolTip": "Part1\\Services\\ApiGateway.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwKoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:43:06.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\DeviceSimulator.cs",
+              "RelativeDocumentMoniker": "Part1\\Services\\DeviceSimulator.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\DeviceSimulator.cs",
+              "RelativeToolTip": "Part1\\Services\\DeviceSimulator.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:49:46.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecommendationEngine.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\RecommendationEngine.cs",
+              "RelativeDocumentMoniker": "Part1\\Services\\RecommendationEngine.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\RecommendationEngine.cs",
+              "RelativeToolTip": "Part1\\Services\\RecommendationEngine.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAcwBABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:40:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThresholdRules.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\ThresholdRules.cs",
+              "RelativeDocumentMoniker": "Part1\\Services\\ThresholdRules.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Services\\ThresholdRules.cs",
+              "RelativeToolTip": "Part1\\Services\\ThresholdRules.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:39:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainShellForm.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\MainShellForm.cs",
+              "RelativeDocumentMoniker": "Part1\\MainShellForm.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\MainShellForm.cs",
+              "RelativeToolTip": "Part1\\MainShellForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:16:43.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Form1.cs",
+              "RelativeDocumentMoniker": "Part1\\Form1.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Form1.cs [Design]",
+              "RelativeToolTip": "Part1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:02:44.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandStreamView.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\View\\CommandStreamView.cs",
+              "RelativeDocumentMoniker": "Part1\\View\\CommandStreamView.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\View\\CommandStreamView.cs",
+              "RelativeToolTip": "Part1\\View\\CommandStreamView.cs",
+              "ViewState": "AgIAANYBAAAAAAAAAAAmwAUCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:53:10.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Program.cs",
+              "RelativeDocumentMoniker": "Part1\\Program.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Program.cs",
+              "RelativeToolTip": "Part1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:57:21.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Form1.cs",
+              "RelativeDocumentMoniker": "Part1\\Form1.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Form1.cs",
+              "RelativeToolTip": "Part1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:35:03.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SecurityDevice.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Models\\SecurityDevice.cs",
+              "RelativeDocumentMoniker": "Part1\\Models\\SecurityDevice.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\Part1\\Part1\\Models\\SecurityDevice.cs",
+              "RelativeToolTip": "Part1\\Models\\SecurityDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:32:33.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
